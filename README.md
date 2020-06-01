@@ -15,9 +15,9 @@ $ open localhost:8080/index.html
 ### Example output:
 
 ```text
-app.js:9 3 -1
-app.js:10 6 -1
-app.js:11 5 -2
-app.js:12 10 -2
-app.js:13 15 -3`
+3 is Fizz
+6 is Fizz
+5 is Buzz
+10 is Buzz
+15 is FizzBuzz
 ```
